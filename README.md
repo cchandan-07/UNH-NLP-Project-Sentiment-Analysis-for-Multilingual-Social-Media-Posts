@@ -3,7 +3,7 @@ Sentiment Analysis for Multilingual Social Media Posts
 
 Keywords:  Sentiment Analysis, Multilingual Subjectivity, Twitter Sentiment Classification, Opinion Mining, Word Representations, Suffix Stripping Algorithm
 
-Link to Repo:  https://github.com/UNH-NLP-Project/SentimentAnalysisUsingBert   
+Link to Repo:  https://github.com/cchandan-07/UNH-NLP-Project-Sentiment-Analysis-for-Multilingual-Social-Media-Posts.git
 
 Abstract
 This paper introduces an innovative approach for sentiment analysis on multilingual social media posts, recognizing the growing importance of understanding sentiments across diverse languages. Leveraging advanced natural language processing techniques, our method combines pre-trained multilingual embeddings with a fine-tuned transformer architecture. We present a comprehensive exploration of the motivation, technical details, experimental results, and analyses, showcasing the potential of our approach.
@@ -135,8 +135,9 @@ REFERENCES
 [15].	Wang, J., Yu, L.-C., Lai, K. R., & Zhang, X. (2016). Dimensional sentiment analysis using a regional CNN-LSTM model. Proceedings of the 54th annual meeting of the association for computational linguistics (volume 2: Short papers).
 
 CONTRIBUTORS
-1.	Likhitha Gupta Thallapally
-2.	Santhoshi Raghuram
-3.	Medhini Barla
+1.	Akhila Awoshetty
+2.	Mohammed Khaja mujahiddin
+3. Chandramohan Chandanakumar
+
 
 
